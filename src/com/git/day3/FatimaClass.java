@@ -16,6 +16,8 @@ public class FatimaClass {
 			result = str.toUpperCase();		
 			return result;
 		
-	}
+	
 
+}
+	//conflick is confusing to me now 
 }

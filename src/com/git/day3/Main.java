@@ -6,7 +6,7 @@ public class Main {
 		
 		System.out.println("Lets the fun begin");
 		
-		int age = 25;
+		int age = 30;
 		
 	}
 	

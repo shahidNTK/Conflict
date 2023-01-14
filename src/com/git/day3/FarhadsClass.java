@@ -15,6 +15,7 @@ public class FarhadsClass {
 			int i = 1;
 			while (true) {
 
+
 				System.out.println(i);
 
 				i++;

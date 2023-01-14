@@ -42,5 +42,13 @@ public class FarhadsClass {
 	// 2. is local version
 
 	
+// Reyhana do you know we have two type of repository Local and Remote, so the code which you see in below that's the remote one, and the above is from my local,
+//so now i can make any change's it will showing both. 	
 	
+<<<<<<< HEAD
+
+=======
 	
+
+// } DONT MAKE ROOKIE MISTAKES
+>>>>>>> branch 'master' of https://github.com/shahidNTK/Conflict.git

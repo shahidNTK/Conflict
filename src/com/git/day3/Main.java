@@ -10,6 +10,9 @@ public class Main {
 		
 	}
 	
+//<<<<<<< HEAD
+	
+//=======
 	public static void addNumbers(String str) {
 		int a = 10;
 
@@ -18,4 +21,5 @@ public class Main {
 	}
 
 
+//>>>>>>> branch 'master' of https://github.com/shahidNTK/Conflict.git
 }

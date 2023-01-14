@@ -13,7 +13,12 @@ public class SandeepsClass {
 			result += strArr[i];
 		}
 
-		return result;                     
+		return result;
+	}
+
+	public static void main(String[] args) {
+
+		System.out.println();
 	}
 
 }

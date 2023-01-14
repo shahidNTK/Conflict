@@ -13,7 +13,8 @@ public class FarhadsClass {
 		public static void getWhileLoopResult(int minNum, int maxNum) {
 
 			int i = 1;
-			while (i <= 50) {
+			while (true) {
+
 
 				System.out.println(i);
 
@@ -23,15 +24,11 @@ public class FarhadsClass {
 				
 			}
 
-		}
-		
-		
-		public static void add() {
-			
-			int num = 10-20;
-			
-		}
-
 	}
 	
 
+	// when for the same block of code when you have two versions
+	// 1. is reomote version
+	// 2. is local version
+
+}

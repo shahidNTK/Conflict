@@ -13,7 +13,7 @@ public class Main {
 	public static void addNumbers(String str) {
 		int a = 10;
 		int b = 200;
-		System.out.println(a+b);
+		System.out.println("adding" + a + b);
 	}
 
 }

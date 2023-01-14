@@ -13,7 +13,7 @@ public class FarhadsClass {
 		public static void getWhileLoopResult(int minNum, int maxNum) {
 
 			int i = 1;
-			while (i <= 50) {
+			while (true) {
 
 				System.out.println(i);
 
@@ -22,8 +22,6 @@ public class FarhadsClass {
 				System.out.println("I'm not sure what's going on here");
 				
 			}
-
-		int num = 10 - 20;
 
 	}
 	

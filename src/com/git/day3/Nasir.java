@@ -7,4 +7,9 @@ public class Nasir {
 		System.out.println("Github");
 		
 	}
+	
+	public static void addtwoNumbers(int a, int b) {
+		System.out.println(a+b);
+		
+	}
 }

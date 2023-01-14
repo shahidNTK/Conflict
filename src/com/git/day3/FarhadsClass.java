@@ -2,7 +2,7 @@ package com.git.day3;
 
 public class FarhadsClass {
 
-	public class WhileLoopHW {
+
 
 		public static void main(String[] args) {
 
@@ -24,7 +24,14 @@ public class FarhadsClass {
 			}
 
 		}
+		
+		
+		public static void add() {
+			
+			int num = 10-20;
+			
+		}
 
 	}
 	
-}
+

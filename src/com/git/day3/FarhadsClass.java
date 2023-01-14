@@ -23,15 +23,13 @@ public class FarhadsClass {
 				
 			}
 
-		}
-		
-		
-		public static void add() {
-			
-			int num = 10*20;
-			
-		}
+		int num = 10 - 20;
 
 	}
 	
 
+	// when for the same block of code when you have two versions
+	// 1. is reomote version
+	// 2. is local version
+
+}

@@ -5,9 +5,13 @@ public class Main {
 	public static void main(String[] args) {
 		
 		System.out.println("Lets the fun begin");
+
+		System.out.println("Motuma change mades");
+
 		
 		int age = 30;
 		
+
 	}
 	
 //<<<<<<< HEAD

@@ -13,12 +13,7 @@ public class SandeepsClass {
 			result += strArr[i];
 		}
 
-		return result;
-	}
-
-	public static void main(String[] args) {
-
-		System.out.println("GitHub");
+		return result;                     
 	}
 
 }

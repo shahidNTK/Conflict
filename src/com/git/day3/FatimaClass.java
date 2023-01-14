@@ -9,6 +9,7 @@ public class FatimaClass {
 		 * @param str
 		 * @return
 		 */
+	}
 		public static String toUpper(String str) {
 			String result = "";
 			

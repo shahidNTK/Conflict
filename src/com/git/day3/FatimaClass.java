@@ -16,6 +16,7 @@ public class FatimaClass {
 			result = str.toUpperCase();		
 			return result;
 		
-	}
+	
 
+}
 }

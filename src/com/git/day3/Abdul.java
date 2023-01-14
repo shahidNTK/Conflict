@@ -8,7 +8,7 @@ public class Abdul {
 		for (int i = 0; i < 10; i++) {
 			System.out.println("I dont love Git hub!!! ");
 			
-			int age = 30;
+			int age = 20;
 		}
 		
 	}

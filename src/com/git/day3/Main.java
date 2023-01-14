@@ -6,12 +6,16 @@ public class Main {
 		
 		System.out.println("Lets the fun begin");
 		
+		int age = 30;
+		
 	}
 	
 	public static void addNumbers(String str) {
 		int a = 10;
-		int b = 20;
-		System.out.println(a+b);
+
+		int b = 200;
+		System.out.println("adding" + a + b);
 	}
+
 
 }

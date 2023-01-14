@@ -9,7 +9,11 @@ public class Abdul {
 			System.out.println("I dont love Git hub!!! ");
 			
 			int age = 100;
-			int age = 2;
+
+			System.out.println("let's go crazy");
+
+			int age1 = 2;
+
 		}
 		
 	}

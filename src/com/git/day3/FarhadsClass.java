@@ -47,10 +47,16 @@ void subtract() {
 		
 	
 	public static final int num = 25;
+	void multiply(){
+	}
+
 	
 
 	// when for the same block of code when you have two versions
 	// 1. is reomote version
 	// 2. is local version
 
+	
+	
+	
 }

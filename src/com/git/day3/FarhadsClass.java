@@ -28,6 +28,7 @@ public class FarhadsClass {
 		
 		public static void add() {
 			
+			int num = 10+20;
 			
 		}
 

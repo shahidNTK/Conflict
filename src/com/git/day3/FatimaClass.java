@@ -9,12 +9,15 @@ public class FatimaClass {
 		 * @param str
 		 * @return
 		 */
+	}
 		public static String toUpper(String str) {
 			String result = "";
 			
 			result = str.toUpperCase();		
 			return result;
 		
-	}
+	
 
+}
+	//conflick is confusing to me now 
 }

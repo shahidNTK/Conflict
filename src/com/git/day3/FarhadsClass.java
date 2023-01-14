@@ -24,6 +24,12 @@ public class FarhadsClass {
 			}
 
 		}
+		
+		
+		public static void add() {
+			
+			
+		}
 
 	}
 	

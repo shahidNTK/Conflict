@@ -10,3 +10,4 @@ public class NickClass {
 	}
 
 }
+// DO NOT MESS WITH MY CLASS

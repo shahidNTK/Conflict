@@ -7,5 +7,11 @@ public class Main {
 		System.out.println("Lets the fun begin");
 		
 	}
+	
+	public static void addNumbers(String str) {
+		int a = 10;
+		int b = 20;
+		System.out.println(a+b);
+	}
 
 }

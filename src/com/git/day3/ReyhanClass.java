@@ -1,27 +1,26 @@
 package com.git.day3;
 
 public class ReyhanClass {
-public static void main (String args []) {
-		
-		String colorOption= "blue";
+	public static void main(String args[]) {
+
+		String colorOption = "blue";
 		switch (colorOption) {
 		case "Red":
-			System.out.println( "Red Color");
+			System.out.println("Red Color");
 			break;
 		case "Orange":
-			System.out.println ("Orange Color");
+			System.out.println("Orange Color");
 			break;
 		case "Black":
-			System.out.println ("Black Color");
+			System.out.println("Black Color");
 			break;
 		case "blue":
-			System.out.println ("blue Color");
+			System.out.println("blue Color");
 			break;
 		default:
-			System.out.println ("Wrong color,not available");
-				
-			
+			System.out.println("Wrong color,not available");
+
 		}
-}
+	}
 
 }

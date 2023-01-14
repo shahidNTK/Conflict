@@ -30,7 +30,13 @@ public class FarhadsClass {
 		
 		
 		
+		void add() {
+			
+		}
 		
+void subtract() {
+			
+		}
 		
 		
 		
@@ -40,7 +46,7 @@ public class FarhadsClass {
 		
 		
 	
-	public static final int = 25;
+	public static final int num = 25;
 	
 
 	// when for the same block of code when you have two versions

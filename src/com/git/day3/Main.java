@@ -5,9 +5,13 @@ public class Main {
 	public static void main(String[] args) {
 		
 		System.out.println("Lets the fun begin");
+<<<<<<< HEAD
+		System.out.println("Motuma change mades");
+=======
 		
 		int age = 30;
 		
+>>>>>>> branch 'master' of https://github.com/shahidNTK/Conflict.git
 	}
 	
 	public static void addNumbers(String str) {

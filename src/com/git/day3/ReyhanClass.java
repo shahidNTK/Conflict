@@ -3,7 +3,7 @@ package com.git.day3;
 public class ReyhanClass {
 public static void main (String args []) {
 		
-		String colorOption= "Orange";
+		String colorOption= "blue";
 		switch (colorOption) {
 		case "Red":
 			System.out.println( "Red Color");
@@ -14,8 +14,12 @@ public static void main (String args []) {
 		case "Black":
 			System.out.println ("Black Color");
 			break;
+		case "blue":
+			System.out.println ("blue Color");
+			break;
 		default:
 			System.out.println ("Wrong color,not available");
+				
 			
 		}
 }

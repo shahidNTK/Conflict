@@ -9,5 +9,8 @@ public class HalaClass {
 		result1 = str.toUpperCase();		
 		return result1;
 	}
+	/** Hala. I just wanted to let you know you are amazing! Reyhaneh 
+	 * 
+	 */
 
 }

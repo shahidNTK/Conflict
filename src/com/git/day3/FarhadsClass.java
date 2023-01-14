@@ -40,6 +40,8 @@ public class FarhadsClass {
 		
 		
 	
+	public static final int = 25;
+	
 
 	// when for the same block of code when you have two versions
 	// 1. is reomote version

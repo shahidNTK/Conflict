@@ -13,8 +13,7 @@ public class FarhadsClass {
 		public static void getWhileLoopResult(int minNum, int maxNum) {
 
 			int i = 1;
-			while (true) {
-
+			while (i <= 50) {
 
 				System.out.println(i);
 
@@ -23,35 +22,21 @@ public class FarhadsClass {
 				System.out.println("I'm not sure what's going on here");
 				
 			}
-			
-			
 
-	}
-		
-		
-		
-		void add() {
-			
-		}
-		
-void subtract() {
-			
 		}
 		
 		
-		
-		
-		
-		
-		
-		
-	
-	public static final int num = 25;
-	void multiply(){
+		public static void add() {
+			
+			int num = 10-20;
+			
+		}
+
 	}
-
 	
-
+/**
+ * Farhad. I JUST wanted to see if i can bring changes in your class. Sorry. Reyhana
+ */
 	// when for the same block of code when you have two versions
 	// 1. is reomote version
 	// 2. is local version

@@ -6,4 +6,8 @@ public class Thomas {
 		System.out.println("conflicts");
 		System.out.println("not");
 	}
+	
+	public static void name() {
+		System.out.println("ZZZZZZZ");
+	}
 }

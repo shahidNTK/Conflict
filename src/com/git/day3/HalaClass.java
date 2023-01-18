@@ -4,7 +4,11 @@ public class HalaClass {
 	
 	public static String toUpper(String str) {
 		String result = "GitHub";
+
 		String result1 = "Git";
+
+		String results = "Git";
+
 		
 		result1 = str.toUpperCase();		
 		return result1;

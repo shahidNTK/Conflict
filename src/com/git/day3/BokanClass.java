@@ -34,12 +34,6 @@ System.out.println("Git is fun ...");
 System.out.println("Git is fun ...");
 System.out.println("Git is fun ...");
 System.out.println("Git is fun ...");
-System.out.println("Git is fun1 ...");
-				System.out.println("Git is fun ...");
-
-		
-		
-		System.out.println("Git is fun ...");
 
 	}
 
